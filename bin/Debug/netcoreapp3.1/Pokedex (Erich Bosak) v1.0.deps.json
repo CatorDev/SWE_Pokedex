@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pokedex (Erich Bosak) v1.0/1.0.0": {
+        "runtime": {
+          "Pokedex (Erich Bosak) v1.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokedex (Erich Bosak) v1.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

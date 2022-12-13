@@ -1,0 +1,66 @@
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.exe
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.deps.json
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.runtimeconfig.json
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.runtimeconfig.dev.json
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.dll
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.pdb
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.csproj.AssemblyReference.cache
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\App.g.cs
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0_MarkupCompile.cache
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0_MarkupCompile.lref
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.g.resources
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.GeneratedMSBuildEditorConfig.editorconfig
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.AssemblyInfoInputs.cache
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.AssemblyInfo.cs
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.csproj.CoreCompileInputs.cache
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.dll
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.pdb
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.genruntimeconfig.cache
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.csproj.AssemblyReference.cache
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0_MarkupCompile.cache
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0_MarkupCompile.lref
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.dll
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.pdb
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.exe
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.deps.json
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.runtimeconfig.json
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.runtimeconfig.dev.json
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.dll
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.pdb
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.g.resources
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.AssemblyInfoInputs.cache
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.AssemblyInfo.cs
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.csproj.CoreCompileInputs.cache
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.genruntimeconfig.cache
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokemon_Info.g.cs
+C:\Users\m4tea\Desktop\Fächer\Coding\SWE\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokemon_Info.baml
+D:\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.exe
+D:\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.deps.json
+D:\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.runtimeconfig.json
+D:\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.runtimeconfig.dev.json
+D:\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.dll
+D:\Pokedex (Erich Bosak) v1.0\bin\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.pdb
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.csproj.AssemblyReference.cache
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokemon_Info.g.cs
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0_MarkupCompile.cache
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0_MarkupCompile.lref
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokemon_Info.baml
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.g.resources
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.AssemblyInfoInputs.cache
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.AssemblyInfo.cs
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.csproj.CoreCompileInputs.cache
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.dll
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.pdb
+D:\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokedex (Erich Bosak) v1.0.genruntimeconfig.cache
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokemon_Info.g.cs
+A:\Coding\C#\Pokedex (Erich Bosak) v1.0\obj\Debug\netcoreapp3.1\Pokemon_Info.baml
